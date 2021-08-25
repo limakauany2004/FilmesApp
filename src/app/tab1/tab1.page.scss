@@ -1,0 +1,30 @@
+ion-item{
+  ion-thumbnail{
+    height: 100%;
+  }
+}
+
+ion-chip{
+  padding-inline:0;
+  height: 48px;
+  width: 48px;
+  border-radius:50% ;
+  justify-content:center ;
+
+}
+
+.nome{
+ font-size: 15px;
+ font-weight: 600;
+ color: #ff0000;
+
+}
+
+p{
+  font-size: 12px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+
+
